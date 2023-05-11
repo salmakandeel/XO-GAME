@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.containeer{
+    width: 400px;
+    height: 500px;
+   padding-top: 40px;
+    margin: auto;
+
+}
+.title{
+    margin: 2px;
+    text-align: center;
+    font-size: 30px;
+}
+.square{
+    float: left;
+    background-color: red;
+    width: 125px;
+    height: 100px;
+    margin: 4px;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 10px;
+color: white;
+
+}
+.square:hover{
+    background-color: black;
+}
